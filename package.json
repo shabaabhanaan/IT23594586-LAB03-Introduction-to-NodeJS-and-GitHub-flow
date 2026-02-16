@@ -1,0 +1,20 @@
+{
+  "name": "it23594586-lab03-introduction-to-nodejs-and-github-flow",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shabaabhanaan/IT23594586-LAB03-Introduction-to-NodeJS-and-GitHub-flow#readme",
+  "bugs": {
+    "url": "https://github.com/shabaabhanaan/IT23594586-LAB03-Introduction-to-NodeJS-and-GitHub-flow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabaabhanaan/IT23594586-LAB03-Introduction-to-NodeJS-and-GitHub-flow.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
